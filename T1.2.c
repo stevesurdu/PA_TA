@@ -9,7 +9,6 @@
 // Fiind date 6 numere cistigatoare la Loto si o lista simplu inlantuita cu numere alse de un jucator, sa se determina cite numere a ghicit jucatorul
 
 #include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
 typedef struct lista{
     int inf;
