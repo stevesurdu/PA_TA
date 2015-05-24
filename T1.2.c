@@ -18,13 +18,6 @@ typedef struct lista{
 lista *q;
 int loto[5];
 
-void afisare(lista *q){
-    lista *p = q;
-    printf("\n");
-    for(p=q;p!=NULL;p=p->urm)
-        printf("%d -> ",p->inf);
-    printf("NULL");
-}
 lista *creare(){
     lista *p,*q;
     int i;
