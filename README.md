@@ -8,4 +8,4 @@
   
   Compilator: GNU GCC Compiler
   
-  OS: Ubuntu 14.04 LTS
+  OS: Deepin (Ubuntu 14.04 LTS)
