@@ -6,7 +6,7 @@
     OS: Deepin (Ubuntu 14.04 LTS)
 */
 
-// Sa se stearga dintr-o lista simplu inlantuita toate bodurile cu o valoare data x
+// Sa se stearga dintr-o lista simplu inlantuita toate nodurile cu o valoare data x
 
 #include <stdio.h>
 #include <stdlib.h>
